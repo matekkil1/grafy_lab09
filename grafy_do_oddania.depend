@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1524738689 source:/home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/main.cpp
+	<iostream>
+	"Graph.h"
+	"Interface.h"
+
+1524738659 source:/home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/src/Graph.cpp
+
+1524738644 source:/home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/src/Interface.cpp
+	"Interface.h"
+
+1524738644 /home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/include/Interface.h
+	<iostream>
+	<string>
+	<limits.h>
+	"Tests.h"
+
+1524738644 /home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/include/Tests.h
+	"Graph.h"
+
+1524739879 /home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/include/Graph.h
+	<limits.h>
+	<iostream>
+	<iomanip>
+
+1524739466 source:/home/mion/s/194/mkiljan/Desktop/grafy_do_oddania/src/Tests.cpp
+	"Tests.h"
+
